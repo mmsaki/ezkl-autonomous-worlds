@@ -43,7 +43,7 @@ In the backend we use [Halo2](https://github.com/privacy-scaling-explorations/ha
 
 
 
-https://user-images.githubusercontent.com/45801863/236771676-5bbbbfd1-ba6f-418a-902e-20738ce0e9f0.mp4
+https://user-images.githubusercontent.com/45801863/236771676-5bbbbfd1-PATH-418a-902e-20738ce0e9f0.mp4
 
 
 ### building the project 🔨
